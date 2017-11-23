@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Deep Dive for Rails Form Guide
+- I am uploading this in case I need a reference point of basic forms in rails.
+- Most of this is in pure HTML and the most important thing from this deep dive for me was using the authenticity_token 
+to ensure that a user is properly verified and no CSRF related attacks can occur.
